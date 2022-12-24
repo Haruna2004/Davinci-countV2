@@ -1,0 +1,70 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:aliceblue;
+}
+.hid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-size: cover;
+    background-color: goldenrod;
+    padding: 10px;
+    min-height: 100vh;
+}
+#increase-btn{
+    height: 48px;
+    background-color: darkred;
+    color: white;
+    border: none;
+    padding: 9px;
+    margin: 4px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#save-btn{
+    height: 48px;
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    padding: 9px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 4px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 7px;
+}
+p{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#start-new{
+    height: 48px;
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    padding: 9px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 4px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 7px;
+}
+
+.Pe{
+    font-size: 3rem;
+}
+
+
+
+
